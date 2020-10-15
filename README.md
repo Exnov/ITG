@@ -1,5 +1,5 @@
 # ITG
-Itg collecte des images sur Instagram.
+ITG collecte des images sur Instagram.
 
 ## Version information
 
