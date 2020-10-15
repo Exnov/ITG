@@ -27,7 +27,7 @@ cd chemin\vers\monsuperprogramme
 ```
 - On télécharge ITG dans ce dossier :
 ```
-git clone https://github.com/Exnov/LifeJPEG.git
+git clone https://github.com/Exnov/ITG.git
 ```
 Si vous n'avez pas la commande 'git', téléchargez la version zip de ITG qui se trouve en haut de cette page (bouton vert 'Code', puis 'Download ZIP')
 - On rentre dans le dossier ITG, et on y crée le sous-dossier 'geckodriver' pour recevoir geckodriver.exe :
