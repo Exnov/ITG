@@ -12,7 +12,7 @@ ITG collecte des images sur Instagram
 
 ### Installation
 #### Téléchargez itg.zip, et décompressez le fichier
-#### geckodriver.exe (voir section 'Téléchargement de geckodriver.exe depuis GitHub')
+#### Téléchargez geckodriver.exe (voir section 'Téléchargement de geckodriver.exe depuis GitHub')
 
 ### Utilisation
 - Cliquez sur itg.exe
