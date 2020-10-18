@@ -11,8 +11,8 @@ ITG collecte des images sur Instagram
 - geckodriver.exe de Mozilla
 
 ### Installation
-#### Téléchargez itg.zip, et décompressez le fichier
-#### Téléchargez geckodriver.exe (voir section 'Téléchargement de geckodriver.exe depuis GitHub')
+- Téléchargez itg.zip, et décompressez le fichier
+- Téléchargez geckodriver.exe (voir section 'Téléchargement de geckodriver.exe depuis GitHub')
 
 ### Utilisation
 - Cliquez sur itg.exe
@@ -48,7 +48,7 @@ Si vous n'avez pas la commande 'git', téléchargez le ZIP du code de ITG, qui s
 
 C'est presque fini, reste à télécharger geckodriver.exe (voir section 'Téléchargement de geckodriver.exe depuis GitHub'). Une fois que c'est OK, vous pouvez passer à la section 'Utilisation'
 
-#### Utilisation 
+### Utilisation 
 - Allez dans le dossier de ITG avec votre terminal :
 ```
 cd chemin\vers\ITG
